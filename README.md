@@ -2,7 +2,7 @@
 
 
 My name is Hasan Akpürüm. I live in Turkey.
-<h3 align="left">A passionate Senior Software Development Consultant from Turkey</h3>
+<h3 align="left">A passionate Senior Software Consultant from Turkey</h3>
 
 ![Hasan Akpürüm GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakpurum&show_icons=true)
 
